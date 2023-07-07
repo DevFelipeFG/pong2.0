@@ -2,6 +2,6 @@
 
 Jogo Pong criado com JavaScript
 
-Treinando minha lógica de programação
+ - Treinando minha lógica de programação
 
-Controla a raquete direita usando seu mouse!
+
