@@ -1,7 +1,7 @@
 # pong2.0
 
-<h1 Jogo Pong criado com JavaScript </h1>
+Jogo Pong criado com JavaScript
 
-<h2 Treinando minha lógica de programação </h2>
+Treinando minha lógica de programação
 
-<p Controla a raquete direita usando seu mouse! </p>
+Controla a raquete direita usando seu mouse!
